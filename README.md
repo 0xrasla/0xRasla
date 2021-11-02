@@ -50,8 +50,7 @@
 </a>
 </p>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="0xSebin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rasla-Dev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="0xSebin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rasla-Dev&bg_color=black&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
