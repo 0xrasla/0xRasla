@@ -3,7 +3,7 @@
 <div align="left"> <img src="https://komarev.com/ghpvc/?username=Rasla-Dev" alt="Rasla-Dev"/> </div>
 <img alt="Night Coding" src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" align="right" width="270px"/>
 
-# `Just an Idiot with an Computer Science Degree, do His Best...!`
+# Just an Idiot with an Computer Science Degree, do His Best...!
 
 ## 🛠 &nbsp;`Weaopns`
 
