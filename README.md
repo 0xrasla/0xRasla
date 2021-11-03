@@ -2,6 +2,10 @@
 
 <div align="left"> <img src="https://komarev.com/ghpvc/?username=Rasla-Dev" alt="Rasla-Dev"/> </div>
 
+<p align="center">
+  <a href="https://github.com/0xSebin/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=GameDev;Self-taught%Programmer;Youtuber;Blogger;Developer&font=Fira%20Code&center=true&width=340&height=35&color=white&vCenter=true&size=18"></a>
+</p>
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 😇 &nbsp; JUST AN IDIOT WITH AN COMPUTER SCIENCE DEGREE! DO HIS BEST <br/>
