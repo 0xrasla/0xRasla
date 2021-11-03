@@ -1,8 +1,6 @@
-## &nbsp; <img src="https://c.tenor.com/oqyUP8ollp8AAAAi/amphibia-anne-boonchuy.gif" alt="Waving hand" width="30px"> Yo! I'm Rasla
+## &nbsp; <img src="https://c.tenor.com/oqyUP8ollp8AAAAi/amphibia-anne-boonchuy.gif" alt="Waving hand" width="50px"> [![Rasla-Dev](https://readme-typing-svg.herokuapp.com?font=Operator+Mono&color=%23F7F7F7&size=17&center=false&vCenter=true&lines=I+am+Rasla;I+am+A+Developer;I+am+A+Coder;I+am+A+Youtuber;I+am+GameDev;I+am+Selftaught+Programmer)](https://git.io/typing-svg)
 
 <div align="left"> <img src="https://komarev.com/ghpvc/?username=Rasla-Dev" alt="Rasla-Dev"/> </div>
-
-[![Rasla-Dev](https://readme-typing-svg.herokuapp.com?font=Operator+Mono&color=%23F7F7F7&size=17&center=true&vCenter=true&lines=I+am+Rasla;I+am+A+Developer;I+am+A+Coder;I+am+A+Youtuber;I+am+GameDev;I+am+Selftaught+Programmer)](https://git.io/typing-svg)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -43,16 +41,18 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp; <br/>
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/Rasla-Dev">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rasla-Dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rasla-Dev&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
+<a href="">
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rasla-Dev&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="0xSebin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rasla-Dev&bg_color=black&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="0xSebin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rasla-Dev&bg_color=black&color=838fa3&line=2466d1&point=23FFFF&hide_border=true" /></a>
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
