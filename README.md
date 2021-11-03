@@ -45,13 +45,13 @@
 
 <p align="center">
 <a href="https://github.com/Rasla-Dev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rasla-Dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rasla-Dev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </a>
 <a href="">
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rasla-Dev&layout=compact&langs_count=8&theme=algolia"/>
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rasla-Dev&layout=compact&langs_count=8&theme=midnight-purple"/>
 </a>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="0xSebin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rasla-Dev&bg_color=black&color=838fa3&line=2466d1&point=23FFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="0xSebin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rasla-Dev&bg_color=red&color=6c02c2&line=6509b5&point=420f5c&hide_border=true" /></a>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
