@@ -2,9 +2,7 @@
 
 <div align="left"> <img src="https://komarev.com/ghpvc/?username=Rasla-Dev" alt="Rasla-Dev"/> </div>
 
-<p align="center">
-  <a href="https://github.com/0xSebin/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=GameDev;Self-taught%20Programmer;Youtuber;Blogger;Developer&font=Fira%20Code&center=true&width=340&height=35&color=white&vCenter=true&size=18"></a>
-</p>
+[![Rasla-Dev](https://readme-typing-svg.herokuapp.com?font=Operator+Mono&color=%23F7F7F7&size=17&center=true&vCenter=true&lines=I+am+Rasla;I+am+A+Developer;I+am+A+Coder;I+am+A+Youtuber;I+am+GameDev;I+am+Selftaught+Programmer)](https://git.io/typing-svg)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
