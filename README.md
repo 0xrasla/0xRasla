@@ -2,11 +2,10 @@
 
 <div align="left"> <img src="https://komarev.com/ghpvc/?username=Rasla-Dev" alt="Rasla-Dev"/> </div>
 <img alt="Night Coding" src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" align="right" width="270px"/>
-<p align="centre">
- <h2>Just an Idiot with an Computer Scienc Degree, do His Best...!</h2>
-</p>
 
-### 🛠 &nbsp;Tech Stack
+# `Just an Idiot with an Computer Science Degree, do His Best...!`
+
+## 🛠 &nbsp;`Weaopns`
 
 <p></p>
 <p></p>
@@ -20,7 +19,7 @@
 ![Typescript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
-## ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;`GitHub Analytics`
 
 </br>
 
