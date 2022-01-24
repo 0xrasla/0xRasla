@@ -5,7 +5,7 @@
 
 <!-- # Yes! I am Lazy 😎 -->
 
-## 🛠 &nbsp;`Weaopns`
+<!-- ## 🛠 &nbsp;`Weaopns`
 
 <p></p>
 <p></p>
@@ -18,7 +18,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-
+ -->
 <!-- ## ⚙️ &nbsp;`GitHub Analytics` -->
 
 </br>
