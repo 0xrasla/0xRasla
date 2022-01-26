@@ -78,6 +78,7 @@
 <br>
     
 <!-- retro visitor counter -->  
+### 🤝🏻 &nbsp;`Profile View Count`
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/Rasla-Dev/count.svg" />  
 </p>
@@ -87,8 +88,11 @@
   <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+<p align="center">
 
+### 🤝🏻 &nbsp;`Connect with Me`
+
+</p>
 <p align="center">
 <a href="https://www.linkedin.com/in/thinesh-rasla-779ba2189/"><img src="https://img.shields.io/badge/-thinesh_rasla-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="programmer.rasla@gmail.com"><img src="https://img.shields.io/badge/-programmer.rasla@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
