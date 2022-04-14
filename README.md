@@ -1,9 +1,10 @@
-## &nbsp; <img src="https://c.tenor.com/oqyUP8ollp8AAAAi/amphibia-anne-boonchuy.gif" alt="Waving hand" width="50px"> [![Rasla-Dev](https://readme-typing-svg.herokuapp.com?font=Operator+Mono&color=%23F7F7F7&size=17&center=false&vCenter=true&lines=I+am+Rasla;I+am+A+Developer;I+am+Lazy;I+am+A+Youtuber;I+am+GameDev;I+am+Selftaught+Programmer)](https://git.io/typing-svg)
+<p align="right" >   
+  <img src="https://profile-counter.glitch.me/Rasla-Dev/count.svg" />
+</p>
+
+## &nbsp; <img src="https://c.tenor.com/oqyUP8ollp8AAAAi/amphibia-anne-boonchuy.gif" alt="Waving hand" width="50px"> [![Rasla-Dev](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23F7F7F7&size=18&center=false&vCenter=true&lines=I'm+Rasla;Open+Source+Enthusiast;Little+Bit+Lazy;I'm+a+Youtuber;I'm+a+GameDev;I'm+a+Selftaught+Programmer)](https://git.io/typing-svg)
 
 ## 🛠 &nbsp;`Weaopns`
-
-<p></p>
-<p></p>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -23,37 +24,12 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rasla-Dev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
 </a>
 </p>
-<p align="center">
-<a href="https://github.com/Rasla-Dev">
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rasla-Dev&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true"/>
-</a>
+  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rasla-Dev&theme=midnight-purple&include_all_commits=true&hide_border=true" alt="candida18"  /></p>
+</p>
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
   <br>
-
-## ⚙️ &nbsp;`BRB...🤨`
-
-<div align="center">
-  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rasla-Dev&theme=midnight-purple&include_all_commits=true&hide_border=true" alt="candida18"  /></p>
-
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Rasla-Dev&theme=midnight-purple&show_icons=true&count_private=true&hide_border=true" />
-  <br></br>
-</div>
-
-<table border="0" align="center">
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rasla-Dev&theme=midnight-purple&hide_border=true&no-bg=false&no-frame=false&langs_count=15&hide_border=true"/>
-  
-  </td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
 
 <br>
 <p align="center">
@@ -77,17 +53,6 @@
 
 <br>
     
-<!-- retro visitor counter -->  
-### 🤝🏻 &nbsp;`Profile View Count`
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/Rasla-Dev/count.svg" />  
-</p>
-
-  <br>
-  <p align="center">
-  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
 <p align="center">
 
 ### 🤝🏻 &nbsp;`Connect with Me`
