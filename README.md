@@ -4,6 +4,8 @@
 
 ## &nbsp; <img src="https://c.tenor.com/oqyUP8ollp8AAAAi/amphibia-anne-boonchuy.gif" alt="Waving hand" width="50px"> [![Rasla-Dev](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23F7F7F7&size=18&center=false&vCenter=true&lines=I'm+Rasla;Open+Source+Enthusiast;Little+Bit+Lazy;I'm+a+Youtuber;I'm+a+GameDev;I'm+a+Selftaught+Programmer)](https://git.io/typing-svg)
 
+## An Ediot Who Know how to write code (Good Code)💖✌️
+
 ## 🛠 &nbsp;`Weaopns`
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
