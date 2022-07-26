@@ -10,7 +10,7 @@
 ## Skills
 
   <ul>
-    <li>🧑‍💻 Typescript, Python, C#, Javascript</li>
+    <li>🧑‍💻 Typescript, Python, C#, Javascript, Node</li>
     <li>🔩 React, Angular, Flask</li>
     <li>🚀 SASS, CSS, Stylus</li>
     <li>💿 MongoDB, Postgres, Sql, Firestore</li>
