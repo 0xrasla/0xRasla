@@ -22,6 +22,6 @@
   <ul>
     <li>📞 Email: <a href="mailto:programmer.rasla@gmail.com">programmer.rasla@gmail.com</li>
     <li>📞 Phone: <a href="tel:+91999-462-7465">9994627465</li>
-    <li>📞 Github: <a href="https://github.com/Rasla-Dev">Rasla-Dev</li>
+    <li>📞 Github: <a href="https://github.com/0xrasla">0xrasla</li>
     <li>📞 LinkedIn: <a href="https://www.linkedin.com/in/thinesh-rasla-779ba2189/">Rasla-Dev</li>
   </ul>
