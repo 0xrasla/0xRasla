@@ -11,10 +11,6 @@
 
 - ⚡ Fun fact **i am lazy**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/rasla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rasla" height="30" width="40" /></a>
@@ -29,3 +25,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xrasla&show_icons=true&locale=en" alt="0xrasla" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xrasla&" alt="0xrasla" /></p>
+
+### Blogs posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
