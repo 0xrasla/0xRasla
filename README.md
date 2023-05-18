@@ -29,4 +29,9 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Organize Your React Code for Scalability](https://medium.com/@rasla_/how-to-organize-your-react-code-for-scalability-27ffc68cdeee?source=rss-24984d8056ea------2)
+- [Exploring Middleware&#39;s in ExpressJS &lpar;and much more…&rpar;](https://medium.com/@rasla_/exploring-express-js-intro-middlewares-much-more-a12e604f3c30?source=rss-24984d8056ea------2)
+- [Exploring the Best Desktop Environments for Linux: Top 5 Picks](https://medium.com/@rasla_/exploring-the-best-desktop-environments-for-linux-top-5-picks-9bf5cef509ca?source=rss-24984d8056ea------2)
+- [Evolutionary Optimization Made Easy: A Beginner’s Guide to Genetic Algorithms](https://medium.com/@rasla_/evolutionary-optimization-made-easy-a-beginners-guide-to-genetic-algorithms-7abf2b90ef24?source=rss-24984d8056ea------2)
+- [Why Arch Linux is the Perfect Choice for Tech-Savvy Users and Linux Enthusiasts](https://medium.com/@rasla_/why-arch-linux-is-the-perfect-choice-for-tech-savvy-users-and-linux-enthusiasts-332f822504?source=rss-24984d8056ea------2)
 <!-- BLOG-POST-LIST:END -->
