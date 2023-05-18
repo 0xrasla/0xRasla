@@ -26,7 +26,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xrasla&" alt="0xrasla" /></p>
 
-### Blogs posts
+### BTW! Checkout my latest Blogs 😗
 
 <!-- BLOG-POST-LIST:START -->
 - [How to Organize Your React Code for Scalability](https://medium.com/@rasla_/how-to-organize-your-react-code-for-scalability-27ffc68cdeee?source=rss-24984d8056ea------2)
