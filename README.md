@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **thinesh@gmail.com**
 
-- ⚡ Fun fact **BTW i am lazy and i code on arch**
+- ⚡ Fun fact **BTW i am lazy and i use arch!**
 
 <h2 align="center">Drop a message;</h2>
 <p align="center">
