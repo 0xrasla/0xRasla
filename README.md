@@ -32,6 +32,19 @@
 <h2 align="center">This week code;</h2>
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 19 February 2023 - To: 13 June 2023
+
+Total Time: 386 hrs 54 mins
+
+JavaScript     246 hrs 46 mins >>>>>>>>>>>>>>>>---------   63.78 %
+TypeScript     33 hrs 1 min    >>-----------------------   08.53 %
+Dart           21 hrs 7 mins   >------------------------   05.46 %
+JSON           13 hrs 59 mins  >------------------------   03.62 %
+Python         12 hrs 57 mins  >------------------------   03.35 %
+```
+
 <!--END_SECTION:waka-->
 
 <h2 align="center">BTW! Checkout my latest articles😗;</h2>
