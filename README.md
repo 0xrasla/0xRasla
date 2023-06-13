@@ -34,15 +34,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 February 2023 - To: 13 June 2023
+From: 06 June 2023 - To: 13 June 2023
 
-Total Time: 386 hrs 54 mins
+Total Time: 28 hrs 17 mins
 
-JavaScript     246 hrs 46 mins >>>>>>>>>>>>>>>>---------   63.78 %
-TypeScript     33 hrs 1 min    >>-----------------------   08.53 %
-Dart           21 hrs 7 mins   >------------------------   05.46 %
-JSON           13 hrs 59 mins  >------------------------   03.62 %
-Python         12 hrs 57 mins  >------------------------   03.35 %
+JavaScript   16 hrs 6 mins   >>>>>>>>>>>>>>-----------   56.90 %
+fish         1 hr 58 mins    >>-----------------------   06.98 %
+Markdown     1 hr 42 mins    >>-----------------------   06.04 %
+TypeScript   1 hr 39 mins    >------------------------   05.87 %
+Bash         1 hr 35 mins    >------------------------   05.65 %
 ```
 
 <!--END_SECTION:waka-->
