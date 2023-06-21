@@ -34,15 +34,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 June 2023 - To: 18 June 2023
+From: 12 June 2023 - To: 19 June 2023
 
-Total Time: 24 hrs 43 mins
+Total Time: 22 hrs 4 mins
 
-JavaScript   10 hrs 53 mins  >>>>>>>>>>>--------------   44.09 %
-Other        3 hrs 22 mins   >>>----------------------   13.64 %
-fish         2 hrs 20 mins   >>-----------------------   09.46 %
-TypeScript   1 hr 37 mins    >>-----------------------   06.55 %
-Bash         1 hr 37 mins    >>-----------------------   06.55 %
+JavaScript   6 hrs 54 mins   >>>>>>>>-----------------   31.28 %
+Other        4 hrs 12 mins   >>>>>--------------------   19.06 %
+Bash         2 hrs 21 mins   >>>----------------------   10.69 %
+fish         2 hrs 20 mins   >>>----------------------   10.60 %
+TypeScript   1 hr 37 mins    >>-----------------------   07.34 %
 ```
 
 <!--END_SECTION:waka-->
