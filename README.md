@@ -34,15 +34,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 June 2023 - To: 20 June 2023
+From: 14 June 2023 - To: 21 June 2023
 
-Total Time: 16 hrs 15 mins
+Total Time: 12 hrs 48 mins
 
-JavaScript   5 hrs 14 mins   >>>>>>>>-----------------   32.29 %
-Other        3 hrs 57 mins   >>>>>>-------------------   24.34 %
-Bash         1 hr 36 mins    >>-----------------------   09.86 %
-HTML         1 hr 26 mins    >>-----------------------   08.86 %
-Lua          1 hr 4 mins     >>-----------------------   06.63 %
+Other        3 hrs 50 mins   >>>>>>>------------------   29.95 %
+JavaScript   1 hr 58 mins    >>>>---------------------   15.39 %
+Bash         1 hr 31 mins    >>>----------------------   11.85 %
+HTML         1 hr 26 mins    >>>----------------------   11.25 %
+Lua          1 hr 4 mins     >>-----------------------   08.42 %
 ```
 
 <!--END_SECTION:waka-->
