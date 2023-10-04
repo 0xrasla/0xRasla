@@ -34,15 +34,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 September 2023 - To: 01 October 2023
+From: 25 September 2023 - To: 02 October 2023
 
-Total Time: 11 hrs 36 mins
+Total Time: 10 hrs 51 mins
 
-Dart         5 hrs 56 mins   >>>>>>>>>>>>>------------   51.23 %
-TypeScript   5 hrs 30 mins   >>>>>>>>>>>>-------------   47.43 %
-fish         5 mins          -------------------------   00.79 %
-JSON         3 mins          -------------------------   00.53 %
-JavaScript   0 secs          -------------------------   00.01 %
+Dart         5 hrs 56 mins   >>>>>>>>>>>>>>-----------   54.74 %
+TypeScript   4 hrs 45 mins   >>>>>>>>>>>--------------   43.84 %
+fish         5 mins          -------------------------   00.85 %
+JSON         3 mins          -------------------------   00.57 %
+GDScript3    0 secs          -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->
