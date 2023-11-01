@@ -34,15 +34,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 October 2023 - To: 29 October 2023
+From: 23 October 2023 - To: 30 October 2023
 
-Total Time: 30 hrs 54 mins
+Total Time: 39 hrs 55 mins
 
-JavaScript   22 hrs 50 mins  >>>>>>>>>>>>>>>>>>-------   73.92 %
-TypeScript   4 hrs 34 mins   >>>>---------------------   14.80 %
-CSS          1 hr 40 mins    >------------------------   05.40 %
-Dart         39 mins         >------------------------   02.12 %
-Other        28 mins         -------------------------   01.53 %
+JavaScript   23 hrs 19 mins  >>>>>>>>>>>>>>>----------   58.44 %
+TypeScript   6 hrs 27 mins   >>>>---------------------   16.19 %
+Dart         6 hrs 21 mins   >>>>---------------------   15.92 %
+CSS          1 hr 40 mins    >------------------------   04.18 %
+HTML         43 mins         -------------------------   01.83 %
 ```
 
 <!--END_SECTION:waka-->
