@@ -34,15 +34,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 October 2023 - To: 07 November 2023
+From: 01 November 2023 - To: 08 November 2023
 
-Total Time: 42 hrs 17 mins
+Total Time: 38 hrs 52 mins
 
-JavaScript        36 hrs 28 mins  >>>>>>>>>>>>>>>>>>>>>>---   86.28 %
-JSON              1 hr 45 mins    >------------------------   04.16 %
-Groovy            1 hr 28 mins    >------------------------   03.49 %
-Dart              1 hr 11 mins    >------------------------   02.81 %
-Other             27 mins         -------------------------   01.09 %
+JavaScript   37 hrs 13 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   95.74 %
+Groovy       33 mins         -------------------------   01.43 %
+Dart         21 mins         -------------------------   00.94 %
+JSON         13 mins         -------------------------   00.57 %
+Markdown     10 mins         -------------------------   00.46 %
 ```
 
 <!--END_SECTION:waka-->
