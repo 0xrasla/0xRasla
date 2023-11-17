@@ -34,15 +34,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 November 2023 - To: 14 November 2023
+From: 08 November 2023 - To: 15 November 2023
 
-Total Time: 40 hrs 15 mins
+Total Time: 41 hrs 58 mins
 
-JavaScript   35 hrs 21 mins  >>>>>>>>>>>>>>>>>>>>>>---   87.83 %
-Dart         1 hr 31 mins    >------------------------   03.80 %
-HTML         1 hr 31 mins    >------------------------   03.79 %
-Groovy       33 mins         -------------------------   01.38 %
-fish         28 mins         -------------------------   01.19 %
+JavaScript   35 hrs 10 mins  >>>>>>>>>>>>>>>>>>>>>----   83.79 %
+Other        2 hrs 14 mins   >------------------------   05.36 %
+HTML         1 hr 31 mins    >------------------------   03.64 %
+Dart         1 hr 9 mins     >------------------------   02.78 %
+fish         37 mins         -------------------------   01.50 %
 ```
 
 <!--END_SECTION:waka-->
