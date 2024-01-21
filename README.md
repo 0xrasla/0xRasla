@@ -34,15 +34,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 January 2024 - To: 18 January 2024
+From: 12 January 2024 - To: 19 January 2024
 
-Total Time: 23 hrs 5 mins
+Total Time: 24 hrs 1 min
 
-JavaScript        12 hrs 53 mins  >>>>>>>>>>>>>>-----------   55.87 %
-Dart              3 hrs 34 mins   >>>>---------------------   15.45 %
-HTML              2 hrs 34 mins   >>>----------------------   11.12 %
-JSON              2 hrs 4 mins    >>-----------------------   08.96 %
-XML               50 mins         >------------------------   03.63 %
+JavaScript        11 hrs 6 mins   >>>>>>>>>>>>-------------   46.21 %
+Dart              5 hrs 35 mins   >>>>>>-------------------   23.31 %
+HTML              2 hrs 34 mins   >>>----------------------   10.68 %
+JSON              2 hrs           >>-----------------------   08.34 %
+Other             1 hr 11 mins    >------------------------   04.97 %
 ```
 
 <!--END_SECTION:waka-->
