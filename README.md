@@ -34,12 +34,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 January 2024 - To: 27 January 2024
+From: 21 January 2024 - To: 28 January 2024
 
 Total Time: 33 hrs 53 mins
 
 Dart              16 hrs 5 mins   >>>>>>>>>>>>-------------   47.46 %
-JavaScript        8 hrs 14 mins   >>>>>>-------------------   24.31 %
+JavaScript        8 hrs 14 mins   >>>>>>-------------------   24.30 %
 TypeScript        3 hrs 22 mins   >>-----------------------   09.95 %
 JSON              1 hr 59 mins    >------------------------   05.89 %
 Svelte            1 hr 26 mins    >------------------------   04.24 %
