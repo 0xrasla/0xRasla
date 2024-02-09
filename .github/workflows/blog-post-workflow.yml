@@ -16,4 +16,4 @@ jobs:
       - name: Pull in medium posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/feed/@rasla_"
+          feed_list: "https://medium.com/feed/@raslarasla"
