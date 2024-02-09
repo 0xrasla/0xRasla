@@ -207,11 +207,8 @@ if (require.main === module) {
 
 <h2 align="left">Latest Blog Posts</h2>
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=1&username=raslarasla&theme=dark" alt="Layout with last medium posts"  />
-</div>
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
 
 <h2 align="left">My Coding Sessions this week</h2>
 <!--START_SECTION:waka-->
