@@ -1,4 +1,61 @@
-<h2 align="left">Hi 👋! My name is Rasla! I am a Programmer</h2>
+```js
+console.log("👋 Hello there! Let's meet Thinesh Rasla!");
+
+class Rasla {
+  constructor() {
+    this.username = "0xrasla";
+    this.name = "Thinesh Rasla";
+    this.position = "Senior Software Engineer";
+    this.blog = "medium.com/@raslarasla";
+    this.socials = {
+      twitter: "https://twitter.com/0xrasla",
+      github: "https://github.com/0xrasla",
+      linkedin: "https://www.linkedin.com/in/thinesh-rasla-779ba2189/",
+      instagram: "https://instagram.com/dev_rasla",
+      youtube: "https://www.youtube.com/channel/UC_-Sg3dW0yIathaX7-RtJMQ",
+    };
+    this.code = {
+      backend: ["NestJs", "Node", "Python", "Fastify", "Express"],
+      database: ["PostgreSQL", "MySQL", "SQLite3", "Mongo DB"],
+      devops: ["Linux", "GitHub Actions", "AWS"],
+      frontend: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "ReactJS",
+        "Svelte",
+        "Tailwind",
+        "NextJS",
+      ],
+      tools: ["GIT", "GitHub", "GitLab", "Pandas", "SQLAlchemy", "Nginx"],
+      misc: [
+        "Firebase",
+        "TDD",
+        "SCRUM",
+        "SOLID",
+        "gRPC",
+        "ML",
+        "Tech Writer",
+        "Youtuber",
+      ],
+    };
+    this.architecture = ["SPA", "MVC", "Serverless", "microservices"];
+  }
+
+  toString() {
+    return `${this.name} is a ${
+      this.position
+    } who likes to code in ${this.code.backend.join(
+      ", "
+    )} and build ${this.architecture.join(" and ")}!`;
+  }
+}
+
+if (require.main === module) {
+  const me = new Rasla();
+  console.log(me.toString());
+}
+```
 
 ###
 
@@ -138,23 +195,6 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.youtube.com/channel/UC_-Sg3dW0yIathaX7-RtJMQ" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=My%20CODING%20DIARY&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://instagram.com/dev_rasla" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="programmer.rasla@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/thinesh-rasla-779ba2189/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/0xrasla/0xrasla/output/snake.svg" alt="Snake animation" />
@@ -173,6 +213,6 @@
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=1&username=raslarasla&theme=dark" alt="Layout with last medium posts"  />
 </div>
 
-<h1 align="left">I Code this much of time this week</h1>
+<h2 align="left">Latest Blog Posts</h2>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
