@@ -213,7 +213,7 @@ if (require.main === module) {
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=1&username=raslarasla&theme=dark" alt="Layout with last medium posts"  />
 </div>
 
-<h2 align="left">Latest Blog Posts</h2>
+<h2 align="left">My Coding Sessions this week</h2>
 <!--START_SECTION:waka-->
 
 ```txt
