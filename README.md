@@ -161,18 +161,18 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/0xrasla/count.svg?"  />
 </div>
 
-###
-
 <h2 align="left">Latest Blog Posts</h2>
+
+<br clear="both">
+
 <div align="center">
-  <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=1&username=raslarasla&theme=dark" alt="Layout with last medium posts"  />
 </div>
 
-###
+<h1 align="left">I Code this much of time this week</h1>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
