@@ -175,4 +175,17 @@
 
 <h1 align="left">I Code this much of time this week</h1>
 <!--START_SECTION:waka-->
+
+```txt
+From: 01 February 2024 - To: 08 February 2024
+
+Total Time: 41 hrs 31 mins
+
+JavaScript        12 hrs 30 mins  >>>>>>>>-----------------   30.13 %
+TypeScript        9 hrs 24 mins   >>>>>>-------------------   22.68 %
+Dart              7 hrs 16 mins   >>>>---------------------   17.54 %
+Groovy            4 hrs 25 mins   >>>----------------------   10.65 %
+HTML              3 hrs 7 mins    >>-----------------------   07.55 %
+```
+
 <!--END_SECTION:waka-->
