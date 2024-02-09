@@ -169,8 +169,10 @@
 
 ###
 
+<h2 align="left">Latest Blog Posts</h2>
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=rasla_&theme=great-gatsby" alt="Layout with last medium posts"  />
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
 </div>
 
 ###
