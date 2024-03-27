@@ -219,15 +219,15 @@ if (require.main === module) {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 March 2024 - To: 24 March 2024
+From: 18 March 2024 - To: 25 March 2024
 
-Total Time: 48 hrs 57 mins
+Total Time: 44 hrs 15 mins
 
-Dart              32 hrs 46 mins  >>>>>>>>>>>>>>>>>--------   66.94 %
-TypeScript        8 hrs 11 mins   >>>>---------------------   16.75 %
-HTML              3 hrs 20 mins   >>-----------------------   06.83 %
-JavaScript        2 hrs 10 mins   >------------------------   04.45 %
-XML               54 mins         -------------------------   01.84 %
+Dart              29 hrs 53 mins  >>>>>>>>>>>>>>>>>--------   67.54 %
+TypeScript        5 hrs 56 mins   >>>----------------------   13.44 %
+HTML              3 hrs 48 mins   >>-----------------------   08.60 %
+JavaScript        2 hrs 10 mins   >------------------------   04.92 %
+Svelte            35 mins         -------------------------   01.32 %
 ```
 
 <!--END_SECTION:waka-->
