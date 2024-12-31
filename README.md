@@ -229,3 +229,5 @@ Markdown     5 mins          -------------------------   00.49 %
 ```
 
 <!--END_SECTION:waka-->
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
