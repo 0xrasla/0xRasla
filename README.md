@@ -230,4 +230,6 @@ JSON          15 mins         -------------------------   01.24 %
 
 <!--END_SECTION:waka-->
 
+[![wakatime](https://wakatime.com/badge/user/659827bc-a3fc-4f51-8863-fa836e50771d.svg)](https://wakatime.com/@659827bc-a3fc-4f51-8863-fa836e50771d)
+
 <a href="https://app.daily.dev/rasla"><img src="https://api.daily.dev/devcards/v2/OLblQNtIJBQTQQ4Cj9EE7.png?type=default&r=rmm" width="356" alt="Rasla's Dev Card"/></a>
