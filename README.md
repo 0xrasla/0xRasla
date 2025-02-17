@@ -230,4 +230,4 @@ JSON          15 mins         -------------------------   01.24 %
 
 <!--END_SECTION:waka-->
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+<a href="https://app.daily.dev/rasla"><img src="https://api.daily.dev/devcards/v2/OLblQNtIJBQTQQ4Cj9EE7.png?type=default&r=rmm" width="356" alt="Rasla's Dev Card"/></a>
