@@ -193,9 +193,9 @@ if (require.main === module) {
 
 ###
 
-<br clear="both">
+<!-- <br clear="both">
 
-<img src="https://raw.githubusercontent.com/0xrasla/0xrasla/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/0xrasla/0xrasla/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
@@ -206,6 +206,7 @@ if (require.main === module) {
 <h2 align="left">Latest Blog Posts</h2>
 
   <!-- BLOG-POST-LIST:START -->
+
 - [Send Emails Like a Pro with Node.js and Nodemailer](https://medium.com/@raslarasla/send-emails-like-a-pro-with-node-js-and-nodemailer-e4e133f9b617?source=rss-24984d8056ea------2)
 - [Learn to Code with AI: The Ultimate Guide](https://medium.com/@raslarasla/learn-to-code-with-ai-the-ultimate-guide-4bca8c661fd8?source=rss-24984d8056ea------2)
 - [Why More People Quit when Learning to Code](https://medium.com/@raslarasla/why-more-people-quit-learning-to-code-d07e440572d2?source=rss-24984d8056ea------2)
