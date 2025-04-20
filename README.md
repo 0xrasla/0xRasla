@@ -1,5 +1,5 @@
 ```js
-console.log("👋 Hello there! I am Thinesh Rasla!");
+console.log("👋 Hello Guys! I am Thinesh Rasla!");
 
 class Rasla {
   constructor() {
